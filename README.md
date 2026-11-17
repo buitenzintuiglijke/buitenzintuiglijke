@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Albert 👋
 
-<!--
-**buitenzintuiglijke/buitenzintuiglijke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Small projects. Useful ideas. Learning by building.
 
-Here are some ideas to get you started:
+I’m based in Belgium. This is where I share small tools, try ideas and keep track of what I’m learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Explore my projects
+
+| Project | What it’s for | Built with |
+| --- | --- | --- |
+| [Mac Calculator](https://github.com/buitenzintuiglijke/simple-calculator-macos) | A simple desktop calculator. An early prototype with source code and build instructions. | SwiftUI |
+| [Large File Scanner](https://github.com/buitenzintuiglijke/ScanLargeFiles.ps1) | A PowerShell script for finding large files. | PowerShell |
+| [Web Experiments](https://github.com/buitenzintuiglijke/Web_test) | My early experiments with simple web pages. | HTML · CSS |
+
+## 🌱 What I’m working towards
+
+- Small tools that solve everyday problems
+- Clear instructions so other people can try them
+- Better testing and easier installation, one step at a time
+
+## 🗂️ A quick guide
+
+The projects above are a starting point. Some are experiments and are still being improved. Forked repositories elsewhere on this account are copies of other projects for exploration; they are not presented here as my own original work.
+
+Thanks for visiting!
